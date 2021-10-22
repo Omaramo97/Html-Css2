@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+  background-color: #b4b4b4;
+  width: 100%;
+  height: 100vh;
+}
+
+header{
+    width: 100%;
+    height: 20vh;
+    background-color: #333131;
+}
+
+main{
+margin: 0 auto;
+width: 69%;
+height: 80vh;
+background-color: #ffffff;
+}
+
+footer{
+    margin: 0 auto;
+    background-color: black;
+    width: 69%;
+    height: 10vh;
+}
+

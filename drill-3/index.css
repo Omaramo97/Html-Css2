@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+
+.GrayBar{
+    margin:0;
+    width: 100%;
+    height: 16vh;
+    background-color: rgb(212, 212, 212);
+    display: flex;
+    box-sizing: border-box;
+    align-items: flex-end;
+    border: none;
+}
+
+.BlueBox{
+    margin: 23px;
+    width: 70px;
+    height: 70px;
+    background-color: rgb(64, 64, 189);
+}
+
+ p{
+    margin:25px;
+ }
+
+ .Blue{
+     width: 100%;
+     height: 30vh;
+     background-color: blue;
+ }
+
+ .LightGreen{
+     width: 100%;
+     height: 30vh;
+     background-color: rgb(5, 209, 165);
+ }
+
+ .Olive{
+     width: 100%;
+     height: 30vh;
+     background-color: rgb(189, 201, 86);
+ }
+
+ .Mustard{
+     width: 100%;
+     height: 30vh;
+     background-color: rgb(185, 185, 0);
+ }

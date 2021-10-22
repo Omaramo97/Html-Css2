@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 25px;
+}
+
+ .Box{
+    border: 5px solid black;
+    padding: 25px;
+    box-sizing: border-box;
+    display: flex;
+    height: 300px;
+    align-items: flex-end;
+ }
+ .Rectangle {
+     height: 150px;
+     width: 50px;
+     background-color: blue;
+ }
+
+ .Square {
+     background-color: green;
+     height: 250px;
+     width: 45%;
+     margin: 0 100px;
+ }
+
+ .Circle {
+     border-radius: 100%;
+     height: 250px;
+     width: 250px;
+     background-color: cyan;
+ }
+
+
+
+
+ .Box2{
+     border: 5px dotted black;
+     padding: 50px;
+     margin-top: 100px;
+     box-sizing: border-box;
+     width:100%;
+ }
+
+
+ .ShadeBox{
+     background-color:blanchedalmond;
+     height: 200px;
+     width: 100%;
+     box-shadow: 20px 20px 5px 0px black;
+ }
+
+
+
+
+
+ .Box3 {
+     border: 5px solid rgb(226, 217, 217);
+     padding: 60px;
+     margin: 25px auto;
+     box-sizing: border-box;
+    box-shadow: 5px 5px 5px 0px black;
+    width: 50%;
+ }
+
+ h1{
+     text-align: center;
+     color: blue;
+     letter-spacing: 15px;
+ }
